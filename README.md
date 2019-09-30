@@ -1,5 +1,5 @@
 # Webscraping-Youtube
-Webscraping Youtube scripts and data
+The Webscraping Youtube project includes blog posts, slide shows, tools, scripts and data
 
 For a tutorial on scraping Youtube: https://sites.temple.edu/tudsc/2018/12/12/how-to-scrape-and-analyze-youtube-data-prototyping-a-digital-project-on-immigration-discourse/
 
