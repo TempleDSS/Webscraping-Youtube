@@ -24,7 +24,6 @@ ids = { '8BBrr5jlDoc', '9iCd6UHR-3I', 'sb96zxizHXE'  }
 
 
 with open('names.csv', 'w', newline='') as csvfile:
-#fieldnames = ['first_name', 'last_name']
     fieldnames = [ "TITLE", "CHANNEL_NAME", "NUMBER_OF_VIEWS", "LIKES", "DISLIKES", "NUMBER_OF_SUBSCRIPTIONS", "HASH_TAGS"]
     writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
     writer.writeheader()
