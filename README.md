@@ -14,3 +14,6 @@ Youtube Data Tools: https://tools.digitalmethods.net/netvizz/youtube/
 Gephi: https://gephi.org/
 
 Wordfish R Code: http://www.wordfish.org/software.html
+See Adapted WordFish code in Repository.
+
+Upcoming: Tutorial on Webscraping YouTube with R code from API, through data wrangling, to WordFish analysis
