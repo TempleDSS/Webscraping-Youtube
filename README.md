@@ -16,4 +16,6 @@ Gephi: https://gephi.org/
 Wordfish R Code: http://www.wordfish.org/software.html
 See Adapted WordFish code in Repository.
 
-Upcoming: Tutorial on Webscraping YouTube with R code from API, through data wrangling, to WordFish analysis
+We're working on a Zotero reading list on Youtube Studies: https://www.zotero.org/groups/2420013/youtube_studies
+
+And a tutorial on Webscraping YouTube with R code from API, through data wrangling, to WordFish analysis
