@@ -18,4 +18,6 @@ See Adapted WordFish code in Repository.
 
 We're working on a Zotero reading list on Youtube Studies: https://www.zotero.org/groups/2420013/youtube_studies
 
-And a tutorial on Webscraping YouTube with R code from API, through data wrangling, to WordFish analysis
+And a tutorial on Webscraping YouTube with R code from API, through data wrangling, to WordFish analysis. See Prog Hist Pipeline 1.0
+
+For more on scraping metadata from YouTube, see here: https://github.com/nlgarlic/YouTube-Related-Video-Similarity
