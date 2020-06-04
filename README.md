@@ -7,7 +7,7 @@ For scraping Youtube transcripts: https://sites.temple.edu/tudsc/2019/04/03/comp
 
 For network analysis of Youtube data: https://sites.temple.edu/tudsc/2019/03/26/network-analysis-on-youtube/?relatedposts_hit=1&relatedposts_origin=5709&relatedposts_position=0
 
-The tools we used:
+# The tools we used
 
 Youtube Data Tools: https://tools.digitalmethods.net/netvizz/youtube/
 
@@ -15,6 +15,8 @@ Gephi: https://gephi.org/
 
 Wordfish R Code: http://www.wordfish.org/software.html
 See Adapted WordFish code in Repository.
+
+# Further Information
 
 We're working on a Zotero reading list on Youtube Studies: https://www.zotero.org/groups/2420013/youtube_studies
 
