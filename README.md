@@ -18,7 +18,7 @@ Gephi: https://gephi.org/
 
 Wordfish R Code: http://www.wordfish.org/software.html
 
-See Adapted WordFish code in Repository.
+Code from this repository has been moved to the Programming Historian tutorial listed below. 
 
 # Further Information
 
